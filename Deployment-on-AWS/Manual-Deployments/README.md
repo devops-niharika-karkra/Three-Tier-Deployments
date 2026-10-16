@@ -3,6 +3,12 @@
 ## Project Overview
 This project aims to deployment of a wordpress site on Amazon Web Services (AWS) using a custom Virtual Private Cloud(VPC), multiple EC2 instances, an Application load balance, and a private MYSQL database. 
 
+## What Is Three-Tier Architecture?
+Three-tier architecture separates an application into three logical layers:
+ - **Presentation Tier:** The user-facing interface that receives and displays requests.
+ - **Application Tier:** The application logic that processes requets and communicates with the data tier.
+ - **Data Tier:** The database or storage layer that persists application data.
+   
 ## Project Objectives
  - Design a custom AWS VPC with public and private subnets.
  - Configure an Internet Gateway and NAT Gateway.
