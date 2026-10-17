@@ -65,11 +65,52 @@ Locate the DNS settings.
 <img width="1671" height="796" alt="image" src="https://github.com/user-attachments/assets/a54b9896-93cc-4939-aa32-b9b58c7dcb33" />
 
 subnet creation - VPC select
+
 <img width="815" height="660" alt="image" src="https://github.com/user-attachments/assets/ee5697fb-8e0b-47be-b36a-1c058ba2af30" />
 
 subnet name, cidr
 <img width="815" height="660" alt="image" src="https://github.com/user-attachments/assets/49259439-5d48-4ec3-992c-7af5023b4e3a" />
 
+tags, 
+<img width="1670" height="731" alt="image" src="https://github.com/user-attachments/assets/ccbacb1d-5975-4cb2-8686-5af75dd3c35c" />
+
 subnet created 
 <img width="815" height="660" alt="image" src="https://github.com/user-attachments/assets/0b86dbfa-7f59-40eb-8a36-3d10d24db774" />
+
+create route table
+<img width="1671" height="796" alt="image" src="https://github.com/user-attachments/assets/54abe912-f6fe-4bb7-8415-e2dc8246ca12" />
+
+fill the details
+<img width="1671" height="796" alt="image" src="https://github.com/user-attachments/assets/17641fe6-da72-452f-b51e-629cb1ec8dfc" />
+
+click subnet association
+<img width="1671" height="796" alt="image" src="https://github.com/user-attachments/assets/aab76b15-3ce0-4fb9-848b-b7d95ebe0c0b" />
+
+select subnets for association
+<img width="1690" height="625" alt="image" src="https://github.com/user-attachments/assets/c2a67062-fea2-46af-aa3d-e7e0437452f4" />
+
+create internet gateway
+<img width="1673" height="600" alt="image" src="https://github.com/user-attachments/assets/4051ac87-3614-4435-abd0-535549604bf6" />
+
+fill details
+<img width="1653" height="725" alt="image" src="https://github.com/user-attachments/assets/83d567cf-6eff-4aa1-aedd-2bc5a92e1c92" />
+
+attach vpc with internet gateway
+<img width="1687" height="420" alt="image" src="https://github.com/user-attachments/assets/f1bc038b-d71b-4f0b-a975-d2b00fcf271e" />
+
+attached successfully
+<img width="1687" height="420" alt="image" src="https://github.com/user-attachments/assets/986bc21c-4c53-4d26-a708-ea122ff4849e" />
+
+Nat
+<img width="1671" height="796" alt="image" src="https://github.com/user-attachments/assets/1eb0531c-061b-4346-8264-d5cd6880a61a" />
+
+fill details
+<img width="1555" height="736" alt="image" src="https://github.com/user-attachments/assets/2ffdda52-f6ec-489c-85ba-dee236b8c80a" />
+<img width="1555" height="736" alt="image" src="https://github.com/user-attachments/assets/57d8076d-9fc6-495a-a5ec-82cbb64d6bc7" />
+
+private route table
+<img width="1555" height="736" alt="image" src="https://github.com/user-attachments/assets/88a67d83-02d7-4cc3-8184-42f55c4dfbda" />
+
+add route and nat gateway 
+<img width="1678" height="557" alt="image" src="https://github.com/user-attachments/assets/316e7d0c-723c-4d2b-8e5c-db571c0db0d4" />
 
